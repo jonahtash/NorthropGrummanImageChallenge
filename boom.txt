@@ -1,0 +1,55 @@
+FPS:187.3
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
+
+FPS:199.6
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
+
+FPS:201.2
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
+
+FPS:198.0
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
+
+FPS:180.5
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
+
+FPS:188.6
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
+
+FPS:197.7
+Objects:
+
+Police Car: 86%         (left_x:   15   top_y:   78   width:  409   height:  212)
+Police Car: 72%         (left_x:  224   top_y:   90   width:  323   height:  225)
+Ambulance: 78%  (left_x:  136   top_y:  375   width:  434   height:  226)
+Ambulance: 37%  (left_x:   68   top_y:  400   width:  296   height:  189)
